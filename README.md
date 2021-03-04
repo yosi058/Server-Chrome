@@ -1,6 +1,6 @@
 # Server-Chrome browser
 simple server in python3 - the browser is the client in this case.
-#Instructions:
+# Instructions:
 
 1.run the server in your computer.(locahost)
 
